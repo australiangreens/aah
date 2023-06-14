@@ -1,0 +1,8 @@
+{
+  "name": "australian_greens/aah",
+  "type": "civicrm-ext",
+  "description": "Australian Greens fork of the aah CiviCRM Extension (by artful robot)",
+  "require": {
+    "composer/installers": "^1.6 || ^2"
+  }
+}
